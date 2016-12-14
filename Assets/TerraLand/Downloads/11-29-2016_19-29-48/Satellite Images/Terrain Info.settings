@@ -1,0 +1,71 @@
+Terrain Generation Settings
+
+Address: Grand Canyon
+Latitude: 36.3450634570021 Degree
+Longitude: -112.549340722656 Degree
+NewTerrainGrid: _2x2
+NewTerrainSizeX: 16000
+NewTerrainSizeZ: 16000
+ConstrainedAspect: True
+NewTerrainPixelError: 2
+AreaSelectionMode: 0
+LatExtents: 16
+LonExtents: 16
+SquareArea: True
+ArbitraryTop: 36.4169286797317
+ArbitraryLeft: -112.638563039827
+ArbitraryBottom: 36.2731982342725
+ArbitraryRight: -112.460118405485
+MapType: 0
+PreviewZoomLevel: 11
+SaveASCII: False
+SaveRAW: True
+SaveTIFF: False
+TerrainResolution: 4096
+TerrainSmooth: 1
+ElevationExaggeration: 1
+GridTerrain: 4096
+ImageGridPerTerrain: 2
+ImageResolution: 4096
+TextureTerrain: 0
+Quality: 100
+ImportCompression: False
+AutoScale: False
+Anisotropic: 4
+AlphaResolution: 512
+AsyncCalls: 50
+EngineResolutionMode: 4
+ResolutionPresetSection: True
+AvailableDataSection: True
+NewTerrainSection: True
+LocationSection: True
+AreaSizeSection: True
+InteractiveMapSection: True
+HeghtmapDownloaderSection: False
+SaveElevationSection: False
+ImageDownloaderSection: False
+FailedDownloaderSection: True
+SplitSizeNew: 2
+TotalTerrainsNew: 4
+UpdateArea: True
+ShowArea: True
+ShowCross: True
+SquareArea: True
+SmoothBlendIndex: 0
+SmoothBlend: 0.9
+VisualMapsSection: True
+VisualMapIndex: 2
+AspectIsActive: True
+ElevationIsActive: True
+HillshadeMDIsActive: True
+SlopeIsActive: True
+VisualMapResolution: 8192
+VisualFormat: JPG
+SlopeZFactor: 0.75
+HillshadeAltitude: 50
+HillshadeAzimuth: 150
+HillshadeZFactor: 0.75
+AutomaticSunPosition: True
+AnalysisPreviewIndex: 0
+ProjectorColor: 0 0 0 1
+ProjectorStrength: 1.25
