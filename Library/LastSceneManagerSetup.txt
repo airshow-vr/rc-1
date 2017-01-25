@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/dsfa.unity
+  isLoaded: 1
+  isActive: 1
